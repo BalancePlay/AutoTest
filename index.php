@@ -12,4 +12,6 @@ print 'Third is dialouge';
 
 print 'Letus create a chatbot now';
 
+print 'First step is to create manual intents';
+
 ?>
