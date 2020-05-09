@@ -18,4 +18,6 @@ print 'Greeting can be an intent';
 
 print 'Intent is the goal or intention of the user';
 
+print 'It is very important for the chatbot to understand the intent of the user';
+
 ?>
