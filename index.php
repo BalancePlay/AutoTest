@@ -16,4 +16,6 @@ print 'First step is to create manual intents';
 
 print 'Greeting can be an intent';
 
+print 'Intent is the goal or intention of the user';
+
 ?>
