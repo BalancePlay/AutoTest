@@ -2,24 +2,24 @@
 
 print 'Creating a Chatbot';
 
-print '\n Three parts of a chatbot';
+print '\nThree parts of a chatbot';
 
-print '\n First is Intent';
+print '\nFirst is Intent';
 
-print '\n Second is Entities';
+print '\nSecond is Entities';
 
-print '\n Third is dialouge';
+print '\nThird is dialouge';
 
-print '\n Letus create a chatbot now';
+print '\nLetus create a chatbot now';
 
-print '\n First step is to create manual intents';
+print '\nFirst step is to create manual intents';
 
-print '\n Greeting can be an intent';
+print '\nGreeting can be an intent';
 
-print '\n Intent is the goal or intention of the user';
+print '\nIntent is the goal or intention of the user';
 
-print '\n It is very important for the chatbot to understand the intent of the user';
+print '\nIt is very important for the chatbot to understand the intent of the user';
 
-print '\n Another intent can be goodnight';
+print '\nAnother intent can be goodnight';
 
 ?>
