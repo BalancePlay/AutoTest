@@ -1,25 +1,25 @@
 <?php 
 
-print 'Creating a Chatbot';
+print 'Creating a Chatbot<br/>';
 
-print '\nThree parts of a chatbot';
+print 'Three parts of a chatbot<br/>';
 
-print '\nFirst is Intent';
+print 'First is Intent<br/>';
 
-print '\nSecond is Entities';
+print 'Second is Entities<br/>';
 
-print '\nThird is dialouge';
+print 'Third is dialouge<br/>';
 
-print '\nLetus create a chatbot now';
+print 'Letus create a chatbot now<br/>';
 
-print '\nFirst step is to create manual intents';
+print 'First step is to create manual intents</br>';
 
-print '\nGreeting can be an intent';
+print 'Greeting can be an intent<br/>';
 
-print '\nIntent is the goal or intention of the user';
+print 'Intent is the goal or intention of the user<br/>';
 
-print '\nIt is very important for the chatbot to understand the intent of the user';
+print 'It is very important for the chatbot to understand the intent of the user<br/>';
 
-print '\nAnother intent can be goodnight';
+print 'Another intent can be goodnight<br/>';
 
 ?>
